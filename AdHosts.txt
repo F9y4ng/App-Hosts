@@ -2172,7 +2172,6 @@
 ||nlog.baidu.com
 ||openrcv.baidu.com
 ||rp.baidu.com
-||sp1.baidu.com
 ||testwn.baidu.com
 ||tipsdk.baidu.com
 ||unstat.baidu.com
