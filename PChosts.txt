@@ -2172,7 +2172,6 @@
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
-127.0.0.1 sp1.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
