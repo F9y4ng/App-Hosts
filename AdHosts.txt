@@ -1,3 +1,5 @@
+!version: 20161203
+!author: F9y4ng
 ||acdid.acdsystems.com
 ||activation.acronis.com
 ||activate.adobe.com
