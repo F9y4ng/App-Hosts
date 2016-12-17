@@ -757,9 +757,6 @@
 ||badad.googleplex.com
 ||baichuan.baidu.com
 ||baidu.bosiwangzi.cn
-||baidu.com###ns-swipe
-||baidu.com##.bottom-load-before
-||baidu.com##.inner-item
 ||baidu.shu008.com
 ||baidupan.win
 ||baidustatic.com
@@ -2367,9 +2364,6 @@
 ||m.analytics.126.net
 ||m.api.baifendian.com
 ||m.aty.sohu.com
-||m.baidu.com###ns-swipe
-||m.baidu.com##.bottom-load-before
-||m.baidu.com##.inner-item
 ||m.beacon.sina.com.cn
 ||m.cartekj.com
 ||m.clkservice.youdao.com
@@ -2403,9 +2397,6 @@
 ||m1612.oadz.com
 ||m2374.oadz.com
 ||m3z96.sanya1.com
-||m5.baidu.com###ns-swipe
-||m5.baidu.com##.bottom-load-before
-||m5.baidu.com##.inner-item
 ||m71.qhdzfs.cn
 ||m78.yatemy.cn
 ||m9.xcdf.cn
@@ -4080,9 +4071,6 @@
 ||www.appfh.com
 ||www.appodealx.com
 ||www.appsbodyupdate.com
-||www.baidu.com###ns-swipe
-||www.baidu.com##.bottom-load-before
-||www.baidu.com##.inner-item
 ||www.baidu.com.cyad456.com
 ||www.baifendian.com
 ||www.baigm.com
