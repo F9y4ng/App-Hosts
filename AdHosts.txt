@@ -1,13 +1,9 @@
 !version: 20161217
 !author: F9y4ng
 !m.baidu 
-www.baidu.com##.bottom-load-before
 m.baidu.com##.bottom-load-before
-www.baidu.com###bottom
 m.baidu.com###bottom
-www.baidu.com###ns-swipe
 m.baidu.com###ns-swipe
-www.baidu.com##.inner-item
 m.baidu.com##.inner-item
 !other
 ||acdid.acdsystems.com
