@@ -4048,7 +4048,6 @@
 ||91hui.com^$third-party
 ||360.rbc.cn^$third-party
 ||adclick-cn.
-||bdimg.share.baidu.com/static/js/
 ||cnzz.$third-party
 ||code.xqt7.com^$third-party
 ||dian5000.com^$third-party
