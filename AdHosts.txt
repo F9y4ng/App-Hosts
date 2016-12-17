@@ -1,5 +1,12 @@
 !version: 20161217
 !author: F9y4ng
+!m.baidu 
+m.baidu.com##DIV[style=""]
+m.baidu.com##.bottom-load-before
+m.baidu.com###bottom
+m.baidu.com###ns-swipe
+m.baidu.com##.inner-item
+!other
 ||acdid.acdsystems.com
 ||activation.acronis.com
 ||activate.adobe.com
@@ -4033,11 +4040,6 @@
 ||qmqj2.xy.com
 ||ad.xildiere.com
 ||we.tm
-||baidu.com##DIV[style=""]
-||baidu.com##.bottom-load-before
-||baidu.com###bottom
-||baidu.com###ns-swipe
-||baidu.com##.inner-item
 ||91hui.com^$third-party
 ||360.rbc.cn^$third-party
 ||adclick-cn.
