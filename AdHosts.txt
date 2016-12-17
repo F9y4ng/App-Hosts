@@ -9,8 +9,6 @@ www.baidu.com###ns-swipe
 m.baidu.com###ns-swipe
 www.baidu.com##.inner-item
 m.baidu.com##.inner-item
-www.baidu.com##div(style="")
-m.baidu.com##div(style="")
 !other
 ||acdid.acdsystems.com
 ||activation.acronis.com
