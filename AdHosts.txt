@@ -128,6 +128,7 @@
 ||33.autohome.com.cn
 ||33.pcpop.com
 ||360.rbc.cn^$third-party
+||3600.com
 ||397c0.admaster.com.cn
 ||3m.mediav.com
 ||4.4001075656.com
@@ -261,6 +262,7 @@
 ||acjs.aliyun.com
 ||acs86.com
 ||acsystem.wasu.cn
+||act.qq.com
 ||act2.mediafour.com
 ||action.data.cp61.ott.cibntv.net
 ||action.logger.baofeng.com
@@ -270,6 +272,7 @@
 ||activation.cyberlink.com
 ||active.baofeng.com
 ||activeqq.3g.qq.com
+||actives.youku.com
 ||ad.1111cpc.com
 ||ad.12306.cn
 ||ad.51wnl.com
@@ -309,6 +312,7 @@
 ||ad.jxnews.com.cn
 ||ad.leadboltads.net
 ||ad.leadboltmobile.net
+||ad.m.iqiyi.com
 ||ad.madserving.com
 ||ad.mail.sohu.com
 ||ad.molitv.cn
@@ -317,6 +321,7 @@
 ||ad.qun.qq.com
 ||ad.rednet.cn
 ||ad.seeyouyima.com
+||ad.sina.com.cn
 ||ad.sitemaji.com
 ||ad.tatatimes.com
 ||ad.test.ximalaya.com
@@ -483,6 +488,7 @@
 ||adserver.adtechus.com
 ||adserver.juicyads.com
 ||ads-fa.spotify.com
+||adsfile.qq.com
 ||adshow.58.com
 ||adshow.it168.com
 ||adshownew.it168.com
@@ -526,6 +532,7 @@
 ||afp.alicdn.com
 ||afp.csbew.com
 ||afp.m1905.com
+||afp.qiyi.com
 ||afp.wasu.cn
 ||afp.zol-img.com.cn
 ||afpcreative.wasu.cn
@@ -721,6 +728,8 @@
 ||at.mct01.com
 ||atanx.alicdn.com
 ||atanx2.alicdn.com
+||atm.sina.com
+||atm.youku.com
 ||atm.yoyi.com.cn
 ||att.stargame.com
 ||attach.s8bbs.com
@@ -826,6 +835,7 @@
 ||bls.china360car.com
 ||bmp.ali213.net
 ||bmp1.ali213.net
+||bobo.163.com
 ||bolt.jebe.renren.com
 ||botuu.adsame.com
 ||brance.play.cp81.ott.cibntv.net
@@ -1213,6 +1223,7 @@
 ||cpro.baidu.com
 ||cpro.baidustatic.com
 ||cpro.cr173.com
+||cpro2.baidu.com
 ||cpro2.baidustatic.com
 ||cpv.czpush.com
 ||cq01-cm-et01.cq01.baidu.com
@@ -1234,6 +1245,8 @@
 ||cszlks.com
 ||ct.niu.xunlei.com
 ||ctr.hd.sohu.com
+||cupid.iqiyi.com
+||cupid.qiyi.com
 ||cus.adsmogo.com
 ||cus.adsmogo.mobi
 ||cus.adsmogo.org
@@ -1250,6 +1263,7 @@
 ||d.clkservice.youdao.com
 ||d.cpsoft86.com
 ||d.dropbox.com
+||d.dsp.imageter.com
 ||d.elong.cn
 ||d.emarbox.com
 ||d.g.mi.com
@@ -1309,6 +1323,7 @@
 ||dc.letv-epg.wasu.tv
 ||dc.vmoters.com
 ||dc2.csdn.net
+||dcads.sina.com.cn
 ||dcjs.cig.com.cn
 ||dd.iaskgo.com
 ||dd713.bj.bcebos.com
@@ -1517,6 +1532,7 @@
 ||exp.3g.ifeng.com
 ||extralog.olclient.baofeng.com
 ||extstat.com
+||f.360.cn
 ||f.70e.com
 ||f.chunqiu360.com
 ||f.e703.net
@@ -1526,6 +1542,7 @@
 ||f1.p0y.cn
 ||f2.e703.net
 ||f2.p0y.cn
+||fa.163.com
 ||fans.bestvogue.com
 ||farm-cn.plista.com
 ||fast.cbsi.demdex.net
@@ -1622,7 +1639,9 @@
 ||games.ifeng.com
 ||ganjituiguang.ganji.com
 ||gas.data.pplive.com
+||gb.corp.163.com
 ||gclick.cn
+||gdt.qq.com
 ||gen.alicdn.com
 ||geo.gridsumdissector.com
 ||gg.5173.com
@@ -1810,6 +1829,7 @@
 ||ias816.ujikdd041o.cn
 ||ib.adnxs.com
 ||ic.ie.027ie.com
+||ic.snssdk.com
 ||ic.tynt.com
 ||iclick.cm.admaster.com.cn
 ||icon.51.la
@@ -2061,6 +2081,7 @@
 ||ivy.pcbaby.com.cn
 ||ivy.pclady.com.cn
 ||ivy.pconline.com.cn
+||iwstat.tudou.com
 ||j.br.baidu.com
 ||j.jiawen88.com
 ||j.jqbee.com
@@ -2245,6 +2266,7 @@
 ||kt.kt220.com
 ||kti.bigbos.top
 ||kuaikaiapp.com
+||kuaikan.netmon.360safe.com
 ||kukuplay.com
 ||kwcdn.000dn.com
 ||kwcscdn.000dn.com
@@ -2260,6 +2282,7 @@
 ||ld.kuaigames.com
 ||ldpgl.code.mytanwan.com
 ||lds.lenovomm.com
+||leak.360.cn
 ||lejuim.qtmojo.com
 ||letv.allyes.com
 ||letv.axp.admaster.com.cn
@@ -2341,6 +2364,7 @@
 ||log2.molitv.cn
 ||log5.molitv.cn
 ||log-dmp.suishenyun.cn
+||logger.baofeng.com
 ||logger.qingting.fm
 ||logger.treexml.baofeng.com
 ||logic.cpm.cm.kankan.com
@@ -2348,6 +2372,7 @@
 ||log-oma.play.aiseet.atianqi.com
 ||logs.cnfol.com
 ||logstat.caixin.com
+||logstat.t.sfht.com
 ||lottery.kuaiya.cn
 ||love.66san.com
 ||love.chushoushijian.cn
@@ -2355,6 +2380,7 @@
 ||lrcet.cnzz.kld666.com
 ||lstat.youku.com
 ||luckstatic.v1.cn
+||lvip.youku.com
 ||lynn.zgsemi.cn
 ||lz.kqy1.com
 ||m.1680go.com
@@ -2420,6 +2446,7 @@
 ||masdk.3g.qq.com
 ||match.basebanner.com
 ||match.p4p.1688.com
+||match.rtbidder.net
 ||material.istreamsche.com
 ||material.jusha.com
 ||material.mediav.com
@@ -2492,6 +2519,7 @@
 ||mmae.qtmojo.com
 ||mmg.aty.cp45.ott.cibntv.net
 ||mmg.aty.sohu.com
+||mmstat.com
 ||mo.atm.youku.com
 ||mo.kugou.com
 ||mob.coolnay.com
@@ -2507,6 +2535,7 @@
 ||mobilelog.kugou.com
 ||mobilemsg.youku.com
 ||mon.xtgreat.com
+||monitor.uu.qq.com
 ||monitor.yigao.com
 ||more.tianjimedia.com
 ||motu.p4p.sina.com.cn
@@ -2624,6 +2653,8 @@
 ||ns.apyuelang.com
 ||nsclick.baidu.com
 ||nsclickvideo.baidu.com
+||n-st.vip.com
+||nstat.tudou.com
 ||o.go2yd.com
 ||o.if.qidian.com
 ||o.xywy.com
@@ -2633,6 +2664,7 @@
 ||oc.umeng.com
 ||oeeee.adsame.com
 ||offline-adv.oray.com
+||oimagea2.ydstatic.com
 ||oki.xcyjzs.net
 ||okt.xcyjzs.net
 ||olpv.onlylady.com
@@ -2676,6 +2708,7 @@
 ||p.kugou.com
 ||p.l.cp31.ott.cibntv.net
 ||p.l.qq.com
+||p.l.ykimg.com
 ||p.l.youku.com
 ||p.lu.sogou.com
 ||p.m5bn.com
@@ -2704,6 +2737,7 @@
 ||pagead2.lxms2004.com
 ||pagead46.l.doubleclick.net
 ||pagead-tpc.l.google.com
+||pagechoice.net
 ||panel.adtify.pl
 ||paopao.iqiyi.com
 ||paopao0.qiyipic.com
@@ -2770,6 +2804,7 @@
 ||pic494036.images9999.com
 ||pic5.cstoa.com
 ||pic8.onetad.com
+||pics.taobaocdn.com
 ||pindao.huoban.taobao.com
 ||pingfore.qq.com
 ||pinghot.qq.com
@@ -2801,6 +2836,7 @@
 ||pop.code.mytanwan.com
 ||pop.code.poyang.cn
 ||pop.sjk.ijinshan.com
+||pop.uusee.com
 ||popup.jointreport-switch.com
 ||pos.baidu.com
 ||ppco.trwba.com
@@ -2820,6 +2856,7 @@
 ||pro.hoye.letv.com
 ||pro.letv.com
 ||probe.light.fang.com
+||prom.gome.com.cn
 ||prom.qbho.kuaibo.com
 ||promote.biz.weibo.cn
 ||promote.caixin.com
@@ -2837,6 +2874,7 @@
 ||pub.aplus.pptv.com
 ||pub.funshion.com
 ||pub.mop.com
+||pub.se.360.cn
 ||pubads.g.doubleclick.net
 ||publish.ad.youth.cn
 ||pubmatic.com
@@ -2934,6 +2972,7 @@
 ||r.xcycm.com
 ||r.youmi.net
 ||r1.cp31.ott.cibntv.net
+||r1.ykimg.com
 ||r2.adwo.com
 ||ra.gtimg.com
 ||rack.ra.icast.cn
@@ -2966,6 +3005,7 @@
 ||rc.xxhrd.com
 ||rc.ybnrm.com
 ||rc.yyhebse.com
+||rcd.iqiyi.com
 ||rcgi.video.qq.com
 ||rcmd.pop.ijinshan.com
 ||rcv.jesgoo.com
@@ -3314,13 +3354,16 @@
 ||show.g.mediav.com
 ||show.kuanp.com
 ||show.m.mediav.com
+||show.re.taobao.com
 ||show.tcth8.com
 ||show3.fang.com
 ||show-g.mediav.com
 ||shows.21cn.com
 ||shows.fdc.com.cn
+||shrek.6.cn
 ||shzyjbr.wtdtjs.rocks
 ||simaba.taobao.com
+||simba.6.cn
 ||simg.52zbz.com
 ||sin1.g.adnxs.com
 ||sina.wrating.com
@@ -3350,6 +3393,7 @@
 ||snim.qtmojo.com
 ||snippet.pos.baidu.com
 ||sns.whalecloud.com
+||soft.data.weather.360.cn
 ||soft.mifenggame.cn
 ||soft.qymma.com
 ||sohu.irs01.com
@@ -3408,6 +3452,7 @@
 ||staging.admin.e.mi.com
 ||stat.10jqka.com.cn
 ||stat.16lao.com
+||stat.360safe.com
 ||stat.55bbs.com
 ||stat.58.xgo.com.cn
 ||stat.adirects.com
@@ -3485,6 +3530,7 @@
 ||static.houyi.baofeng.net
 ||static.jebe.renren.com
 ||static.ku6.com
+||static.lstat.youku.com
 ||static.mediav.com
 ||static.novanet.vn
 ||static.pay.baidu.com
@@ -3595,8 +3641,10 @@
 ||t1.jzkapp.com
 ||t1.kt0731.com
 ||t1.xc0429.com
+||t10.baidu.com
 ||t10.yijia2009.com
 ||t11.baidu.com
+||t12.baidu.com
 ||t16119.bafuhotel.com
 ||t188.dazhonghua.cn
 ||t2.jzkapp.com
@@ -3685,6 +3733,7 @@
 ||tjf.lyhuayun.com
 ||tjlog.easou.com
 ||tjlog.ps.easou.com
+||tjs.sjs.sinajs.cn
 ||tl.771tao.com
 ||tl.nmbtedu.com
 ||t-l.play.aiseet.atianqi.com
@@ -3820,6 +3869,7 @@
 ||un.xlcun.com
 ||unimhk.com
 ||union.$third-party
+||union.6.cn
 ||union.baidu.com
 ||union.baidustatic.guannin.com
 ||union.china.com.cn
@@ -3829,6 +3879,7 @@
 ||union.youdao.com
 ||union2.50bang.org
 ||unionli.com^$third-party
+||unlitui.com
 ||unstat.baidu.com
 ||up.qingdaonews.com
 ||update.123juzi.net
@@ -3983,6 +4034,7 @@
 ||wan.youku.com
 ||wangmeng.baidu.com
 ||wangmeng.sogou.com
+||wanproxy.127.net
 ||wap.koudaitong.com
 ||waps.cn
 ||wapsite.baidu.com
@@ -4031,6 +4083,7 @@
 ||wqmobile.com
 ||wr.da.netease.com
 ||wrating.com
+||ws.126.net
 ||ws.ksmobile.net
 ||ws.sj.qq.com
 ||ws.tapjoyads.com
