@@ -1,11 +1,16 @@
 !version: 20161217
 !author: F9y4ng
 !m.baidu 
-www.baidu.com,baidu.com,m5.baidu.com,m.baidu.com##.bottom-load-before
-www.baidu.com,baidu.com,m5.baidu.com,m.baidu.com###bottom
-www.baidu.com,baidu.com,m5.baidu.com,m.baidu.com###ns-swipe
-www.baidu.com,baidu.com,m5.baidu.com,m.baidu.com##.inner-item
-www.baidu.com,baidu.com,m5.baidu.com,m.baidu.com##div(style="")
+www.baidu.com##.bottom-load-before
+m.baidu.com##.bottom-load-before
+www.baidu.com###bottom
+m.baidu.com###bottom
+www.baidu.com###ns-swipe
+m.baidu.com###ns-swipe
+www.baidu.com##.inner-item
+m.baidu.com##.inner-item
+www.baidu.com##div(style="")
+m.baidu.com##div(style="")
 !other
 ||acdid.acdsystems.com
 ||activation.acronis.com
