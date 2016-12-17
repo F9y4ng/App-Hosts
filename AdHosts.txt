@@ -4033,9 +4033,11 @@
 ||qmqj2.xy.com
 ||ad.xildiere.com
 ||we.tm
+||baidu.com###\w+\d+
+||baidu.com##.bottom-load-before
+||baidu.com###bottom
 ||baidu.com###ns-swipe
 ||baidu.com##.inner-item
-||baidu.com##.bottom-load-before
 ||91hui.com^$third-party
 ||360.rbc.cn^$third-party
 ||adclick-cn.
