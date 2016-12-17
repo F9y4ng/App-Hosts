@@ -1,4 +1,4 @@
-!version: 20161203
+!version: 20161217
 !author: F9y4ng
 ||acdid.acdsystems.com
 ||activation.acronis.com
@@ -4033,3 +4033,9 @@
 ||qmqj2.xy.com
 ||ad.xildiere.com
 ||we.tm
+||m5.baidu.com###ns-swipe
+||m5.baidu.com##.inner-item
+||m.baidu.com###ns-swipe
+||m.baidu.com##.inner-item
+||www.baidu.com###ns-swipe
+||www.baidu.com##.inner-item
