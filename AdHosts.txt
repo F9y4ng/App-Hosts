@@ -4033,9 +4033,15 @@
 ||qmqj2.xy.com
 ||ad.xildiere.com
 ||we.tm
+||baidu.com###ns-swipe
+||baidu.com##.inner-item
+||baidu.com##.bottom-load-before
 ||m5.baidu.com###ns-swipe
 ||m5.baidu.com##.inner-item
+||m5.baidu.com##.bottom-load-before
 ||m.baidu.com###ns-swipe
 ||m.baidu.com##.inner-item
+||m.baidu.com##.bottom-load-before
 ||www.baidu.com###ns-swipe
 ||www.baidu.com##.inner-item
+||www.baidu.com##.bottom-load-before
