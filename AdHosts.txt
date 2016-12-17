@@ -4059,4 +4059,3 @@
 ||unionli.com^$third-party
 ||union.$third-party
 ||yigao.com^$third-party
-|http://*$script,third-party,domain=baidu.com|binhuo.com|ranwen.net
