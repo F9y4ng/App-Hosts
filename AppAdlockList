@@ -7978,504 +7978,6 @@
 ||20150931.biz5.sandai.net 
 ||20150931.float.sandai.net 
 ||20150931.logic.cpm.cm.sandai.net 
-@Game Accelerate
-!#ErrorLite
-220.90.198.73 a0.ww.np.dl.playstation.net
-220.90.198.73 a1.ww.np.dl.playstation.net
-220.90.198.73 gs-sec.ww.np.dl.playstation.net
-220.90.198.73 ps4-eb.ww.np.dl.playstation.net
-220.90.198.73 psp2-eb.ww.np.dl.playstation.net
-104.76.66.237 psp2.updptl.np.community.playstation.net
-104.76.66.237 ps4.updptl.np.community.playstation.net
-104.74.253.44 skyapi.onedrive.live.com
-104.74.253.44 onedrive.live.com
-203.77.186.211 hs.llnwd.net
-203.77.186.211 loris-e.llnwd.net
-203.77.186.211 loris.llnwd.net
-203.77.186.211 vo.llnwd.net
-220.90.198.73 akamai.cdn.ea.com
-220.90.198.73 ams.akamai.cdn.ea.com
-220.90.198.73 ps3.download.playstation.net
-220.90.198.73 static.cdn.ea.com
-220.90.198.73 update.playstation.net
-220.90.198.73 update.playstation.org
-223.5.5.5 gs2.sonycoment.loris-e.llnwd.net
-68.142.107.183 cdn.ubi.com
-!#CDN & Other
-103.15.158.188 m.xp1.ru4.com
-202.230.15.201 pixel.rubiconproject.com
-54.254.113.222 app.ubertags.com
-!#EA
-104.76.67.57 ecommerce2.dm.origin.com
-104.74.246.4 battlelog.battlefiel.d.com
-107.23.202.75 cloudsync.dm.origin.com
-23.21.141.136 heartbeat.dm.origin.com
-159.153.228.75 accounts.ea.com
-159.153.228.76 geteway.ea.com
-209.197.3.12 cdn-static-secure.liverail.com
-104.76.67.57 www.origin.com
-104.76.67.57 secure.download.dm.origin.com
-220.90.198.73 cdn.content.easports.com
-54.230.149.219 content.easports.com
-159.153.20.6 easw.easports.com
-159.153.234.56 gos.ea.com
-159.153.79.135 gosgvaprod-qos01.ea.com
-159.153.105.104 gosiadprod-qos01.ea.com
-159.153.235.22 gosredirector.ea.com
-159.153.202.54 gossjcprod-qos01.ea.com
-!#Rockstar
-203.77.186.211 prod.cloud.rockstargames.com
-!#2K NBA
-111.221.35.133 nba-cdn.2ksports.com
-!#Steam
-184.50.91.157 store.steampowered.com
-184.50.91.157 steamcommunity.com
-184.50.91.157 forums.steampowered.com
-184.50.91.157 support.steampowered.com
-184.50.91.157 storefront.steampowered.com
-220.90.198.73 store.valvesoftware.com
-220.90.198.73 store.akamai.steamstatic.com
-220.90.198.73 cdn.akamai.steamstatic.com
-203.77.186.211 cdn.store.steampowered.com
-220.90.198.73  cdn.steampowered.com
-203.77.186.211 cdn.steamcommunity.com
-203.77.186.211 media.steampowered.com
-205.185.216.10 media2.steampowered.com
-220.90.198.73 media4.steampowered.com
-220.90.198.73  content1.steampowered.com
-205.185.216.10 content3.steampowered.com
-69.252.117.138 content6.steampowered.com
-220.90.198.73 content7.steampowered.com
-220.90.198.73 content8.steampowered.com
-205.185.216.10 cloud-2.steampowered.com
-220.90.198.73 cloud-3.steampowered.com
-!#IGN
-220.90.198.73 www.ign.com
-220.90.198.73 assets.ign.com
-220.90.198.73 assets2.ign.com
-220.90.198.73 assets3.ign.com
-220.90.198.73 assets4.ign.com
-220.90.198.73 assets1.ignimgs.com
-220.90.198.73 assets2.ignimgs.com
-!#PlayStation
-223.5.5.5 zeus.dl.playstation.net
-223.5.5.5 ares.dl.playstation.net
-223.5.5.5 poseidon.dl.playstation.net
-223.5.5.5 gs2.ww.prod.dl.playstation.net
-184.87.110.189 a0.ww.np.dl.playstation.net
-184.87.110.189 a1.ww.np.dl.playstation.net
-184.87.110.189 gs-sec.ww.np.dl.playstation.net
-184.87.110.189 ps4-eb.ww.np.dl.playstation.net
-184.87.110.189 psp2-eb.ww.np.dl.playstation.net
-220.90.198.73 gs2-sec.ww.prod.dl.playstation.net
-220.90.198.73 infoboard.ww.dl.playstation.net
-220.90.198.73 infoboard.xx.dl.playstation.net
-220.90.198.73 crepo.ww.dl.playstation.net
-220.90.198.73 a.ad.playstation.net
-220.90.198.73 whatsnewj.dl.playstation.net
-220.90.198.73 cdn.jp.playstation.com
-104.74.240.158 cdn.us.playstation.com
-203.77.186.211 psapp-start.dl.playstation.net
-203.77.186.211 psapp.dl.playstation.net
-220.90.198.73 cma.dl.playstation.net
-220.90.198.73 pss.dl.playstation.net
-220.90.198.73 psm.dl.playstation.net
-220.90.198.73 book.dl.playstation.net
-220.90.198.73 manuals.playstation.net
-220.90.198.73 livearea.np.dl.playstation.net
-220.90.198.73 neardoc.dl.playstation.net
-220.90.198.73 psp2-e.np.dl.playstation.net
-220.90.198.73 psm-runtime.np.dl.playstation.net
-220.90.198.73 psm-resource.np.dl.playstation.net
-220.90.198.73 psm-pkg.np.dl.playstation.net
-104.76.31.154 resource.np.ac.playstation.net
-104.76.67.56 trophy01.np.community.playstation.net
-220.90.198.73 k.dl.playstation.net
-220.90.198.73 hakoniwa.dl.playstation.net
-220.90.198.73 nowTV.dl.playstation.net
-220.90.198.73 qmusic.dl.playstation.net
-220.90.198.73 netflix.dl.playstation.net
-220.90.198.73 akamai-b.cdn.cddbp.net
-203.77.186.211 bbc.dl.playstation.net
-203.77.186.211 lovefilm.dl.playstation.net
-104.75.4.162 themis.dl.playstation.net
-104.75.4.162 homer.dl.playstation.net
-104.76.67.170 commerce1.api.np.km.playstation.net
-104.76.67.170 kfscdn.api.np.km.playstation.net
-104.76.67.170 image.api.np.km.playstation.net
-104.76.67.170 sf.api.np.km.playstation.net
-104.76.67.170 catalog.api.np.km.playstation.net
-104.76.67.170 ecode.dl.playstation.net
-104.75.4.162 legaldoc.dl.playstation.net
-220.90.198.73 j.dl.playstation.net
-220.90.198.73 as.dl.playstation.net
-220.90.198.73 radio.psp.dl.playstation.net
-104.76.76.114 ps4-static-cif.sec.np.dl.playstation.net
-184.87.110.232 nsx.sec.np.dl.playstation.net
-220.90.198.73 vitacl.ww.dl.playstation.net
-220.90.198.73 vitacl.xx.dl.playstation.net
-104.76.67.50 nsx.np.dl.playstation.net
-220.90.198.73 nsx.np.grs.dl.playstation.net
-220.90.198.73 nsx.mgmt.grs.dl.playstation.net
-||nsx.np.grs.playstation.net
-104.76.76.59 api.crackle.com
-220.90.198.73 nsx-e.np.dl.playstation.net
-184.87.111.106 nsx-e.sec.np.dl.playstation.net
-220.90.198.73 mercury.dl.playstation.net
-104.75.4.162 video.dl.playstation.net
-104.75.4.162 comic.dl.playstation.net
-220.90.198.73 apollo.dl.playstation.net
-104.75.4.162 apollo2.dl.playstation.net
-220.90.198.73 xmb.dl.playstation.net
-203.77.186.211 xmb-e.dl.playstation.net
-203.77.186.211 e1.dl.playstation.net
-220.90.198.73 tmdb.np.dl.playstation.net
-104.76.87.145 static-resource.np.community.playstation.net
-104.74.226.28 store.playstation.com
-104.76.76.70 store.sonyentertainmentnetwork.com
-23.42.182.227 cdn.sonyentertainmentnetwork.com
-104.74.237.134 cdn-a.sonyentertainmentnetwork.com
-104.76.87.128 sf.prod.sonyentertainmentnetwork.com
-220.90.198.73 select.ww.home.playstation.net
-220.90.198.73 pkg.ww.home.playstation.net
-203.77.186.211 scee-home.playstation.net
-203.77.186.211 sceasia-home.playstation.net
-203.77.186.211 sceerd.dl.playstation.net
-60.28.252.136 post.net.playstation.net
-220.90.198.73 get.net.playstation.net
-104.76.66.230 ena.net.playstation.net
-!#Spotify
-194.68.29.53 api.spotify.com
-194.68.29.53 api-tv.spotify.com
-117.18.232.151 ps4.scdn.co
-!#Headset Companion App
-54.231.237.71 milka.sbdnpd.com
-!#Destiny
-220.90.198.73 cdn.deadorbit.net
-!#XboxMusic
-220.90.198.73 zvaa.zune.net
-220.90.198.73 zvab.zune.net
-220.90.198.73 zvac.zune.net
-220.90.198.73 zvad.zune.net
-220.90.198.73 zvae.zune.net
-220.90.198.73 zvaf.zune.net
-220.90.198.73 zvag.zune.net
-220.90.198.73 zvah.zune.net
-220.90.198.73 zvai.zune.net
-220.90.198.73 zvak.zune.net
-220.90.198.73 zval.zune.net
-220.90.198.73 zvam.zune.net
-220.90.198.73 zvan.zune.net
-220.90.198.73 zvao.zune.net
-220.90.198.73 zvap.zune.net
-220.90.198.73 zvaq.zune.net
-220.90.198.73 zvar.zune.net
-220.90.198.73 zvas.zune.net
-220.90.198.73 zvat.zune.net
-220.90.198.73 zvav.zune.net
-220.90.198.73 zvaw.zune.net
-220.90.198.73 zvax.zune.net
-220.90.198.73 zvay.zune.net
-220.90.198.73 zvaz.zune.net
-220.90.198.73 zvba.zune.net
-220.90.198.73 zvbb.zune.net
-220.90.198.73 zvbc.zune.net
-220.90.198.73 zvbd.zune.net
-220.90.198.73 zvbe.zune.net
-220.90.198.73 zvbf.zune.net
-220.90.198.73 zvbg.zune.net
-220.90.198.73 zvbh.zune.net
-220.90.198.73 zvbi.zune.net
-220.90.198.73 zvbk.zune.net
-220.90.198.73 zvbl.zune.net
-220.90.198.73 zvbm.zune.net
-220.90.198.73 zvbn.zune.net
-220.90.198.73 zvbo.zune.net
-220.90.198.73 zvbp.zune.net
-220.90.198.73 zvbq.zune.net
-220.90.198.73 zvbr.zune.net
-220.90.198.73 zvbs.zune.net
-220.90.198.73 zvbt.zune.net
-220.90.198.73 zvbv.zune.net
-220.90.198.73 zvbw.zune.net
-220.90.198.73 zvbx.zune.net
-220.90.198.73 zvby.zune.net
-220.90.198.73 zvbz.zune.net
-220.90.198.73 zvca.zune.net
-220.90.198.73 zvcb.zune.net
-220.90.198.73 zvcc.zune.net
-220.90.198.73 zvcd.zune.net
-220.90.198.73 zvce.zune.net
-220.90.198.73 zvcf.zune.net
-220.90.198.73 zvcg.zune.net
-220.90.198.73 zvch.zune.net
-220.90.198.73 zvci.zune.net
-220.90.198.73 zvck.zune.net
-220.90.198.73 zvcl.zune.net
-220.90.198.73 zvcm.zune.net
-220.90.198.73 zvcn.zune.net
-220.90.198.73 zvco.zune.net
-220.90.198.73 zvcp.zune.net
-220.90.198.73 zvcq.zune.net
-220.90.198.73 zvcr.zune.net
-220.90.198.73 zvcs.zune.net
-220.90.198.73 zvct.zune.net
-220.90.198.73 zvcv.zune.net
-220.90.198.73 zvcw.zune.net
-220.90.198.73 zvcx.zune.net
-220.90.198.73 zvcy.zune.net
-220.90.198.73 zvcz.zune.net
-220.90.198.73 zv01.zune.net
-220.90.198.73 zv02.zune.net
-220.90.198.73 zv03.zune.net
-220.90.198.73 zv04.zune.net
-220.90.198.73 zv05.zune.net
-220.90.198.73 zv06.zune.net
-220.90.198.73 zv07.zune.net
-220.90.198.73 zv08.zune.net
-220.90.198.73 zv09.zune.net
-220.90.198.73 zv10.zune.net
-220.90.198.73 zv11.zune.net
-220.90.198.73 zv12.zune.net
-220.90.198.73 zv13.zune.net
-220.90.198.73 zv14.zune.net
-220.90.198.73 zv15.zune.net
-220.90.198.73 zv16.zune.net
-220.90.198.73 zv17.zune.net
-220.90.198.73 zv18.zune.net
-220.90.198.73 zv19.zune.net
-220.90.198.73 zv20.zune.net
-220.90.198.73 zv21.zune.net
-220.90.198.73 zv22.zune.net
-220.90.198.73 zv23.zune.net
-220.90.198.73 zv24.zune.net
-220.90.198.73 zv25.zune.net
-220.90.198.73 zv26.zune.net
-220.90.198.73 zv27.zune.net
-220.90.198.73 zv28.zune.net
-220.90.198.73 zv29.zune.net
-220.90.198.73 zv30.zune.net
-220.90.198.73 zv31.zune.net
-220.90.198.73 zmv01.zune.net
-220.90.198.73 zmv02.zune.net
-220.90.198.73 zmv03.zune.net
-220.90.198.73 zmv04.zune.net
-220.90.198.73 zmv05.zune.net
-220.90.198.73 zmv06.zune.net
-220.90.198.73 zmv07.zune.net
-220.90.198.73 zmv08.zune.net
-220.90.198.73 zmv09.zune.net
-220.90.198.73 zmv10.zune.net
-220.90.198.73 zmv11.zune.net
-220.90.198.73 zmv12.zune.net
-220.90.198.73 download.zune.net
-220.90.198.73 progdownload.zune.net
-124.40.41.95 stream.zune.net
-220.90.198.73 xv01.xboxlive.net
-220.90.198.73 xv02.xboxlive.net
-220.90.198.73 xv03.xboxlive.net
-220.90.198.73 xv04.xboxlive.net
-220.90.198.73 xv05.xboxlive.net
-220.90.198.73 xv06.xboxlive.net
-220.90.198.73 xv07.xboxlive.net
-220.90.198.73 xv08.xboxlive.net
-220.90.198.73 xv09.xboxlive.net
-220.90.198.73 xv10.xboxlive.net
-220.90.198.73 xv11.xboxlive.net
-220.90.198.73 xv12.xboxlive.net
-220.90.198.73 xv13.xboxlive.net
-220.90.198.73 xv14.xboxlive.net
-220.90.198.73 xv15.xboxlive.net
-220.90.198.73 xv16.xboxlive.net
-220.90.198.73 xv17.xboxlive.net
-220.90.198.73 xv18.xboxlive.net
-220.90.198.73 xv19.xboxlive.net
-220.90.198.73 xv20.xboxlive.net
-220.90.198.73 xv21.xboxlive.net
-220.90.198.73 xv22.xboxlive.net
-220.90.198.73 xv23.xboxlive.net
-220.90.198.73 xv24.xboxlive.net
-220.90.198.73 xv25.xboxlive.net
-220.90.198.73 xv26.xboxlive.net
-220.90.198.73 xv27.xboxlive.net
-220.90.198.73 xv28.xboxlive.net
-220.90.198.73 xv29.xboxlive.net
-220.90.198.73 xv30.xboxlive.net
-220.90.198.73 xv31.xboxlive.net
-220.90.198.73 xv32.xboxlive.net
-!#XboxLive
-223.5.5.5 epix.xbox.com
-223.5.5.5 epix-ssl.xbox.com
-223.5.5.5 news.xbox.com
-223.5.5.5 tiles.xbox.com
-223.5.5.5 compass.xbox.com
-223.5.5.5 download.xbox.com
-223.5.5.5 redirect.zune.net
-223.5.5.5 image.xboxlive.com
-223.5.5.5 nxeassets.xbox.com
-223.5.5.5 compass.surface.com
-223.5.5.5 avatar.xboxlive.com
-223.5.5.5 mktplassets.xbox.com
-223.5.5.5 compass.xboxlive.com
-223.5.5.5 assets.xboxlive.com
-223.5.5.5 download.xboxlive.com
-223.5.5.5 speedtest.xboxlive.com
-223.5.5.5 avatarread.xboxlive.com
-223.5.5.5 catalog-cdn.xboxlive.com
-223.5.5.5 web-service.halo.xbox.com
-223.5.5.5 xb.dlservice.microsoft.com
-223.5.5.5 marketplace-xb.xboxlive.com
-223.5.5.5 mktplassets-ssl.xbox.com
-223.5.5.5 web-service-ssl.halo.xbox.com
-223.5.5.5 console-service.halo.xbox.com
-223.5.5.5 console-service-ssl.halo.xbox.com
-223.5.5.5 support.xbox.com
-223.5.5.5 rewards.xbox.com
-223.5.5.5 download.microsoft.com
-223.5.5.5 images-eds.xboxlive.com
-223.5.5.5 musicimage.xboxlive.com
-223.5.5.5 marketplace.xbox.com
-223.5.5.5 musicdelivery.xboxlive.com
-223.5.5.5 musicdelivery-ssl.xboxlive.com
-223.5.5.5 compass-ssl.xbox.com
-223.5.5.5 assets-ssl.xbox.com
-223.5.5.5 download-ssl.xbox.com
-223.5.5.5 tiles-ssl.xbox.com
-223.5.5.5 intermedia.xboxlive.com
-223.5.5.5 download-ssl.xboxlive.com
-223.5.5.5 image-ssl.xboxlive.com
-223.5.5.5 achievements.xboxlive.com
-223.5.5.5 avatar-ssl.xboxlive.com
-223.5.5.5 avatarread-ssl.xboxlive.com
-223.5.5.5 eplists.xboxlive.com
-223.5.5.5 accounts.xboxlive.com
-223.5.5.5 xncsi.xboxlive.com
-223.5.5.5 profile.xboxlive.com
-223.5.5.5 upload-cms.xboxlive.com
-223.5.5.5 settings.xboxlive.com
-223.5.5.5 settings-ssl.xboxlive.com
-223.5.5.5 emeaworldcupsports-notification.xboxlive.com
-223.5.5.5 emeaworldcupsports-sports.xboxlive.com
-223.5.5.5 emeaworldcupsports-static.xboxlive.com
-223.5.5.5 titlestorage.xboxlive.com
-223.5.5.5 eds.xboxlive.com
-223.5.5.5 cdf-anon.xboxlive.com
-223.5.5.5 xle.xboxlive.com
-223.5.5.5 sas.xboxlive.com
-223.5.5.5 userstats.xboxlive.com
-223.5.5.5 sessiondirectory.xboxlive.com
-223.5.5.5 privacy.xboxlive.com
-223.5.5.5 social.xboxlive.com
-223.5.5.5 userpresence.xboxlive.com
-223.5.5.5 update-cdn.xboxlive.com
-223.5.5.5 mediadiscovery-ssl.xboxlive.com
-223.5.5.5 vdlimages-ssl.xboxlive.com
-223.5.5.5 compass-ssl.xboxlive.com
-223.5.5.5 dlassets-ssl.xboxlive.com
-134.170.108.26 onedrive.live.com
-134.170.109.48 skyapi.onedrive.live.com
-204.79.197.200 bing.com
-204.79.197.200 cn.bing.com
-204.79.197.200 www.bing.com
-204.79.197.200 ssl.bing.com
-204.79.197.214 global.bing.com
-204.79.197.201 testfamilysafety.bing.com
-118.215.70.152 h2.msn.com
-104.74.228.100 sb.scorecardresearch.com
-220.90.198.73 www.msftncsi.com
-220.90.198.73 crl.microsoft.com
-93.184.215.200 mscrl.microsoft.com
-218.60.46.55 download.microsoft.com
-220.90.198.73 xbl-pmd.xboxlive.com
-220.90.198.73 xbl-pull-01.xboxlive.com
-220.90.198.73 xbl-pull-02.xboxlive.com
-220.90.198.73 xbl-pull-03.xboxlive.com
-220.90.198.73 xbl-pull-04.xboxlive.com
-60.28.252.136 images-eds.xboxlive.com
-220.90.198.73 xbl-e3-f.xboxlive.com
-220.90.198.73 xbl-e3-s.xboxlive.com
-220.90.198.73 xbl-e3-i.xboxlive.com
-220.90.198.73 xblevts-p.xboxlive.com
-184.25.80.138 musicimage.xboxlive.com
-220.90.198.73 xbox-mbr.xboxlive.com
-184.25.80.123 music-cache.xbox.com
-220.90.198.73 notice.xbox.com
-23.42.181.100 help.ui.xboxlive.com
-23.42.181.100 start.ui.xboxlive.com
-23.42.181.100 account.ui.xboxlive.com
-23.42.181.100 purchase.ui.xboxlive.com
-220.90.198.73 eds-anon.xboxlive.com
-23.46.4.157 eds.vint.xboxlive.com
-23.46.4.157 eds-anon.vint.xboxlive.com
-220.90.198.73 mediadiscovery.xboxlive.com
-220.90.198.73 vdlimages.xboxlive.com
-220.90.198.73 download.msgamestudios.com
-104.74.239.204 download-ssl.msgamestudios.com
-220.90.198.73 videos.msgamestudios.com
-104.74.239.204 videos-ssl.msgamestudios.com
-131.253.22.24 musicdelivery.xboxlive.com
-184.25.80.138 musicdelivery-ssl.xboxlive.com
-23.46.132.90 compass-ssl.surface.com
-104.74.228.114 assets.xbox.com
-93.184.215.200 xbox-ecn102.vo.msecnd.net
-66.119.149.141 attestation.xboxlive.com
-184.25.187.248 content.halocdn.com
-220.90.198.73 contentmedia.halocdn.com
-134.170.29.122 intermedia.xboxlive.com
-220.90.198.73 download.halowaypoint.com
-104.76.65.231 download-ssl.halowaypoint.com
-220.90.198.73 videos.halowaypoint.com
-23.41.84.134 videos-ssl.halowaypoint.com
-!#Nintendo
-104.74.251.42 npdl.cdn.nintendowifi.net
-104.75.3.126 npdi.cdn.nintendo.net
-220.90.198.73 nus.cdn.shop.wii.com
-220.90.198.73 nus.cdn.wup.shop.nintendo.net
-220.90.198.73 nus.cdn.c.shop.nintendowifi.net
-220.90.198.73 nus.cdn.t.shop.nintendowifi.net
-220.90.198.73 ccs.cdn.wup.shop.nintendo.net
-220.90.198.73 ccs.cdn.shop.wii.com
-220.90.198.73 ccs.cdn.c.shop.nintendowifi.net
-220.90.198.73 ccs.cdn.t.shop.nintendowifi.net
-104.75.3.126 idbe-wup.cdn.nintendo.net
-104.75.3.126 geisha-wup.cdn.nintendo.net
-104.75.3.126 olvjp.cdn.nintendo.net
-104.75.3.126 olvus.cdn.nintendo.net
-104.75.3.126 olveu.cdn.nintendo.net
-220.90.198.73 mii-images.cdn.nintendo.net
-104.74.226.86 mii-secure.cdn.nintendo.net
-107.23.214.164 image.miiverse.nintendo.net
-104.75.3.126 samurai-ctr.cdn.nintendo.net
-104.75.3.126 samurai-wup.cdn.nintendo.net
-66.117.25.199 nintendojp.dl.sc.omtrdc.net
-66.117.25.196 nintendojp.d1.sc.omtrdc.net
-220.90.198.73 cdn.wah.wup.app.nintendo.net
-220.90.198.73 cdn2.wah.wup.app.nintendo.net
-104.74.251.42 cp3s.cdn.nintendowifi.net
-104.74.251.42 cp3s-movie.cdn.nintendowifi.net
-104.74.251.42 eou.cdn.nintendowifi.net
-220.90.198.73 pubjp-p.est.c.app.nintendowifi.net
-220.90.198.73 pubus-p.est.c.app.nintendowifi.net
-220.90.198.73 pubeu-p.est.c.app.nintendowifi.net
-220.90.198.73 pubes-p.est.c.app.nintendowifi.net
-220.90.198.73 pubtv-p.est.c.app.nintendowifi.net
-220.90.198.73 cfh.wapp.wii.com
-220.90.198.73 miicontest.wapp.wii.com
-!#Amazon
-220.90.198.73 ecx.images-amazon.com
-220.90.198.73 ec2.images-amazon.com
-54.230.64.208 ec5.images-amazon.com
-203.77.186.211 ec6.images-amazon.com
-220.90.198.73 g-ecx.images-amazon.com
-220.90.198.73 g-ec2.images-amazon.com
-54.230.64.208 g-ec5.images-amazon.com
-203.77.186.211 g-ec6.images-amazon.com
-220.90.198.73 z-ak.images-amazon.com
-220.90.198.73 z-ecx.images-amazon.com
-203.77.186.211 z-ec5.images-amazon.com
-184.87.97.52 images-fe.ssl-images-amazon.com
-23.37.154.106 images-na.ssl-images-amazon.com
-@Shield Game Active
 !#Assassin's Creed
 ||onlineconfigservice.ubi.com
 ||orbitservice.ubi.com
@@ -8505,7 +8007,6 @@
 ||mangler9.generals.ea.com
 ||mangler10.generals.ea.com
 ||servserv.generals.ea.com
-@Shield Soft Active
 !#ACDSee
 ||acdupdater.acdsystems.com
 ||soapintouch.acdnet.com
@@ -8612,7 +8113,6 @@
 ||ps2.zonelabs.com
 ||register.zonelabs.com
 ||update.zonelabs.com
-@Shield Soft Ads
 !#Avira
 ||notifier.avira.com
 !#ESTsoft
@@ -8817,7 +8317,6 @@
 ||update.yunduan.cn
 !#ZhuShou
 ||ad.click.zhushou.so
-@Sites-International
 !#USA-AOL
 ||ads.aol.co.uk
 ||adserver.aol.fr
@@ -9056,7 +8555,7 @@
 ||ads.zaobao.com
 ||lhzpimedia.allyes.com
 ||creative.allyes.com.cn
-@Sites-HKTW
+
 !#Anyway
 ||ad.anyway.com.tw
 ||advertisement.anyway.com.tw
@@ -9148,8 +8647,8 @@
 ||r.pixgold.com
 ||ad.evozi.com
 ||ads.techbang.com
-@Sites-China
-@Sites-China/Area
+
+
 !#AH-Hefei
 !#BJ-Qianlong
 ||ad.qianlong.com
@@ -9192,7 +8691,7 @@
 ||sta.dayoo.com
 !#Gucheng
 ||bdcp.gucheng.com
-@Sites-China/Books
+
 !#17K
 ||ad.17k.com
 ||log.17k.com
@@ -9205,7 +8704,7 @@
 ||stat.readnovel.com
 ||dwtrack.readnovel.com
 ||game.readnovel.com
-@Sites-China/Finance
+
 !#10jqka
 !#Ccstock
 ||count.ccstock.cn
@@ -9222,7 +8721,7 @@
 !#MACD
 !#StockStar
 ||stat.stockstar.com
-@Sites-China/News
+
 !#XinHua
 !#People
 ||ads.people.com.cn
@@ -9242,7 +8741,7 @@
 ||ranking.21cn.com
 !#Outh
 !#GMW
-@Sites-China/Military
+
 !#Miercn
 ||tongji.junshijia.com
 !#Tiexue
@@ -9252,7 +8751,7 @@
 ||a.xilu.com
 !#XinJunshi
 ||dd.xinjunshi.cn
-@Sites-China/Games
+
 !#178
 ||market.178.com
 !#265g
@@ -9276,7 +8775,7 @@
 ||ad.uuu9.com
 ||count.uuu9.com
 ||stat.uuu9.com
-@Sites-China/SNS
+
 !#Daqi
 ||gg.daqi.com
 ||log.daqi.com
@@ -9289,13 +8788,13 @@
 ||union.dvbbs.net
 ||union.gxcms.com
 ||union.maccms.com
-@Sites-China/Photo
+
 !#POCO
 !#Yupoo
 ||adc.yupoo.com
 !#Nphoto
 !#Heiguang
-@Sites-China/IT
+
 !#evolife
 !#eNet
 ||trace.enet.com.cn
@@ -9321,7 +8820,7 @@
 !#Rising
 ||alert.rising.com.cn
 ||union.rising.com.cn
-@Sites-China/Infos
+
 !#39
 !#51Job
 ||logs.51job.com
@@ -9359,7 +8858,7 @@
 ||ranking.ynet.com
 !#1fangchan
 !#cnbeta
-@Sites-China/Media
+
 !#ttmeiju
 ||googleads.g.jujinw.com
 ||www.jujinw.com
