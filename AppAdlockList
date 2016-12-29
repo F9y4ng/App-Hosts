@@ -13598,3 +13598,9 @@
 ||pvpv.com
 ||zktao.com
 ||www.zktao.com
+!#baidu.mobile
+.baidu.com###bottom
+.baidu.com###ns-swipe
+.baidu.com##.bottom-load-before
+.baidu.com##.inner-item
+.baidu.com##DIV[style=""]
