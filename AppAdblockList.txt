@@ -576,9 +576,9 @@ tool_img
 seo_468.js
 eapi/ad/get
 mmaconfig.xml
-.baidu.com###bottom
-.baidu.com###ns-swipe
-.baidu.com##.bottom-load-before
-.baidu.com##.inner-item
-.baidu.com##DIV[style=""]
+m.baidu.com###bottom
+m.baidu.com###ns-swipe
+m.baidu.com##.bottom-load-before
+m.baidu.com##.inner-item
+m.baidu.com##DIV[style=""]
 !## End-Adblock
