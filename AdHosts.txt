@@ -813,7 +813,6 @@
 ||cr.m.liebao.cn
 ||j.wan.liebao.cn
 ||mad.m.maxthon.cn
-||api.mp.uc.cn
 ||image.uczzd.cn
 ||m.uczzd.cn
 ||iflow.uczzd.cn
