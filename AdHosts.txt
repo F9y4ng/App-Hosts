@@ -112,7 +112,6 @@
 ||pre.nbsdk-baichuan.taobao.com
 ||tunion-api.m.taobao.com
 ||strip.taobaocdn.com
-||applog.uc.cn
 ||huichuan.sm.cn
 ||log.cs.pp.cn
 ||c.wrating.com
@@ -813,13 +812,6 @@
 ||cr.m.liebao.cn
 ||j.wan.liebao.cn
 ||mad.m.maxthon.cn
-||image.uczzd.cn
-||m.uczzd.cn
-||iflow.uczzd.cn
-||iflow.uczzd.com
-||iflow.uczzd.com.cn
-||iflow.uczzd.net
-||image.zzd.sm.cn
 ||s.com2us.net
 ||push.com2us.net
 ||data.doodlemobile.com
