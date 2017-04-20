@@ -112,7 +112,6 @@
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 strip.taobaocdn.com
-127.0.0.1 applog.uc.cn
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 c.wrating.com
@@ -813,14 +812,6 @@
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 mad.m.maxthon.cn
-127.0.0.1 api.mp.uc.cn
-127.0.0.1 image.uczzd.cn
-127.0.0.1 m.uczzd.cn
-127.0.0.1 iflow.uczzd.cn
-127.0.0.1 iflow.uczzd.com
-127.0.0.1 iflow.uczzd.com.cn
-127.0.0.1 iflow.uczzd.net
-127.0.0.1 image.zzd.sm.cn
 127.0.0.1 s.com2us.net
 127.0.0.1 push.com2us.net
 127.0.0.1 data.doodlemobile.com
@@ -6495,4 +6486,4 @@
 127.0.0.1 adsage.*
 127.0.0.1 duomeng.*
 127.0.0.1 127.net
-127.0.0.1 bjdnserror9.wo.com.cn   
+127.0.0.1 bjdnserror9.wo.com.cn
