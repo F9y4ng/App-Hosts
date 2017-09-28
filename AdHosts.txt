@@ -6420,4 +6420,5 @@
 m.baidu.com##.blank-frame
 m.baidu.com###style#banner_call
 m.baidu.com###ns-swipe
+m.baidu.com##div[srcid="sigma_celebrity_rela"]
 ||m.baidu.com/se/static/js/modules/invoke/app/banner_*.js
