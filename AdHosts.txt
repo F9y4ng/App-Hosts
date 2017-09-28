@@ -6487,5 +6487,5 @@
 ||jump.luna.58.com
 ||qy-swallow.qiyukf.com
 ||api.m.taobao.com
-m.baidu.com###bottom
-m.baidu.com##.blank-frame
+m.baidu.com##style#banner_call
+||m.baidu.com/se/static/js/modules/invoke/app/banner_*.js
