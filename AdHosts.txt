@@ -16,6 +16,10 @@
 ||dbregistration.cuteftp.com
 ||activation.cyberlink.com
 ||cap.cyberlink.com
+||drmcmm.baidu.com
+||cas.hk.cn.criteo.com
+||cat.hk.cn.criteo.co
+||app.acm.dzwww.com
 ||upd.faronicslabs.com
 ||backup.lumion3d.com
 ||backup.lumion3d.net
