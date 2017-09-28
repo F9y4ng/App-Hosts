@@ -6488,7 +6488,4 @@
 ||qy-swallow.qiyukf.com
 ||api.m.taobao.com
 m.baidu.com###bottom
-m.baidu.com###ns-swipe
-m.baidu.com##.bottom-load-before
-m.baidu.com##.inner-item
-m.baidu.com##DIV[style=""]
+m.baidu.com##.blank-frame
