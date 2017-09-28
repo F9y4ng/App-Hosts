@@ -1,5 +1,6 @@
-!version: 20170420
+!version: 20170928
 !author: F9y4ng
+||s3a.pstatp.com
 ||acdid.acdsystems.com
 ||activation.acronis.com
 ||activate.adobe.com
@@ -189,7 +190,6 @@
 ||oth.eve.mdt.qq.com
 ||oth.str.mdt.qq.com
 ||oth.update.mdt.qq.com
-||pingma.qq.com
 ||sngmta.qq.com
 ||strategy.beacon.qq.com
 ||wap.mpush.qq.com
@@ -1202,7 +1202,6 @@
 ||jrlt.beacon.qq.com
 ||log.tbs.qq.com
 ||masdk.3g.qq.com
-||pmir.3g.qq.com
 ||mdc.html5.qq.com
 ||btrace.qq.com
 ||btrace.video.qq.com
@@ -1244,8 +1243,6 @@
 ||qianclick.baidu.com
 ||click.qianqian.com
 ||ad.qingting.fm
-||s.qtad.qingting.fm
-||od.qingting.fm
 ||ad.ximalaya.com
 ||adse.ximalaya.com
 ||adeventtracker.spotify.com
@@ -1322,11 +1319,6 @@
 ||ad.thepaper.cn
 ||imgad.thepaper.cn
 ||ad.toutiao.com
-||analytics.snssdk.com
-||ib.snssdk.com
-||pb3.pstatp.com
-||s3.pstatp.com
-||s3a.pstatp.com
 ||wr.da.netease.com
 ||push.yuedu.163.com
 ||ut2.shuqistat.com
@@ -6291,7 +6283,6 @@
 ||t11.baidu.com
 ||t12.baidu.com
 ||init.icloud-analysis.com
-||ic.snssdk.com
 ||actives.youku.com
 ||ad.m.iqiyi.com
 ||d.dsp.imageter.com
@@ -6426,22 +6417,6 @@
 ||rc.jusha.com
 ||run.wmxa.cn
 ||rlog.video.qq.com
-||r2---sn-oguelne7.googlevideo.com
-||r2---sn-p5qlsnsd.googlevideo.com
-||r2---sn-ogueln7s.googlevideo.com
-||r2---sn-ogueln7k.googlevideo.com
-||r5---sn-ogueln7k.googlevideo.com
-||r6---sn-nv47lne6.googlevideo.com
-||r6---sn-q4f7snl6.googlevideo.com
-||r8---sn-nx57yn76.googlevideo.com
-||r8---sn-nx57yn7k.googlevideo.com
-||r9---sn-npo7en7y.googlevideo.com
-||r10---sn-a5m7zne6.googlevideo.com
-||r12---sn-5hne6nls.googlevideo.com
-||r12---sn-nx57ynee.googlevideo.com
-||r12---sn-nx5e6n7d.googlevideo.com
-||r19---sn-npo7en7k.googlevideo.com
-||r19---sn-vgqsen7d.googlevideo.com
 ||ssl-static.baifendian.com
 ||show.xiazai8844.net
 ||s.youtube.com
@@ -6486,7 +6461,32 @@
 ||adsage.*
 ||duomeng.*
 ||127.net
-||bjdnserror9.wo.com.cn   
+||bjdnserror9.wo.com.cn
+||mapi.m.jd.com^
+||policy.jd.com^
+||toutiao-frontier.snssdk.com
+||ichannel.snssdk.com
+||dm.toutiao.com^
+||mon.snssdk.com^
+||umengjmacs.m.taobao.com
+||api.m.jd.com^$app=com.ss.android.article.news
+||security.snssdk.com^
+||dm.bytedance.com^$app=com.ss.android.article.news
+||dm.pstatp.com^$app=com.ss.android.article.news
+||lg.snssdk.com^
+||lh.snssdk.com^
+||isub.snssdk.com^
+||android.bugly.qq.com^$app=fm.qingting.qtradio
+||pawf-open.pingan.com.cn^$app=fm.qingting.qtradio
+||pad-appdata.pingan.com.cn^$app=fm.qingting.qtradio
+||120.26.196.42^
+||wifi.pingan.com.cn^$app=fm.qingting.qtradio
+||sss.qingting.fm
+||pay.qingting.fm
+||pawf-account.pingan.com.cn^
+||jump.luna.58.com
+||qy-swallow.qiyukf.com
+||api.m.taobao.com
 m.baidu.com###bottom
 m.baidu.com###ns-swipe
 m.baidu.com##.bottom-load-before
