@@ -6417,5 +6417,6 @@
 ||jump.luna.58.com
 ||qy-swallow.qiyukf.com
 ||api.m.taobao.com
-m.baidu.com##style#banner_call
+m.baidu.com###style#banner_call
+m.baidu.com###ns-swipe
 ||m.baidu.com/se/static/js/modules/invoke/app/banner_*.js
