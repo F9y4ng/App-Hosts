@@ -6426,7 +6426,7 @@ m.baidu.com###ns-swipe
 m.baidu.com##div[srcid="sigma_celebrity_rela"]
 m.baidu.com###banner
 m.baidu.com###bottom > ul
-||m.baidu.com/se/static/js/modules/invoke/app/banner_*.js
+m.baidu.com/se/static/js/modules/invoke/app/banner_*.js
 ||i.gtimg.cn
 ||imgcache.qq.com
 ||update.miui.com
