@@ -7752,3 +7752,4 @@ m.baidu.com###bottom > ul
 ||irs01.youku.com
 ||g.x.cn.majorserving.com
 ||mon.majorserving.com
+||gss0.bdstatic.com
