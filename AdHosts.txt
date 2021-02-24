@@ -1,8 +1,8 @@
 #源地址=https://github.com/VeleSila/yhosts/blob/master/hosts
 #源版本=202102091712
 #修改者=F9y4ng
-#修改版本=202102240001
-#该格式用于大圣净化VPN广告过滤模式，直接URL导入
+#修改版本=202102240003
+#该格式可用于大圣净化的广告过滤模式，直接URL导入
 at.umeng.com
 adfurikun.jp
 aag.yahooapis.jp
