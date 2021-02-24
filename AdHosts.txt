@@ -306,7 +306,6 @@ textlink.simba.taobao.com
 alog.umeng.com
 api.wsq.umeng.com
 ar.umeng.com
-at.umeng.com
 dev.umeng.com
 oc.umeng.com
 umeng.com
@@ -1111,7 +1110,7 @@ daa.shuzilm.cn
 dai.shuzilm.cn
 stream.shuzilm.cn
 www.shuzilm.cn
-255.255.255.255	broadcasthost
+255.255.255.255 broadcasthost
 ::1             localhost
 localhost
 ::1             ip6-localhost
@@ -3520,7 +3519,6 @@ e.admin60.com
 e.adsdsu.cn
 e.aduiz.com
 e.aetetv.cn
-e.ac56.xyz
 e.aganj.com
 e.ailix.cn
 e.aiyyu.com
@@ -3810,7 +3808,6 @@ e.sqrxh.cn
 e.suehy.com
 e.sugajo.cn
 e.sxhwscj.cn
-e.sxhwscj.cn
 e.szqifu.com
 e.t71q.com
 e.tbaip.com
@@ -3953,7 +3950,6 @@ ee.1s8pj.cn
 ee.2v0ni.cn
 ee.32z8d.cn
 ee.45le.cn
-ee.45xa.cn
 ee.57m1j.cn
 ee.57m1j.com
 ee.60w3s.cn
@@ -3976,7 +3972,6 @@ ee.d6s2pn5t.cn
 ee.eiiteho.cn
 ee.f2z4d.cn
 ee.gd881.cn
-ee.grtnahd.cn
 ee.h2tywo.cn
 ee.hdboping.com
 ee.hx623.cn
@@ -3998,7 +3993,6 @@ ee.wh723.cn
 ee.wv26d.cn
 ee.wz382.cn
 ee.x0u4o.cn
-ee.xfya3.cn
 ee.xlhm88.cn
 ee.xq375.cn
 ee.xr883.cn
@@ -4505,7 +4499,6 @@ js883.yongkang6.com
 js9318.bllzgqbyp.com
 jsc.adskeeper.co.uk
 jscdn.99pps.com
-jscode.jbzj.com
 jsjs.nthyn.com
 jsnywl.kfi8.com
 json.gewuwen.com
@@ -4698,7 +4691,6 @@ m.408uo.cn
 m.41fsxa.cn
 m.43k5d.cn
 m.448u79.cn
-m.45xa.cn
 m.45le.cn
 m.479db.cn
 m.4joon8.cn
@@ -5018,7 +5010,6 @@ m.glaef.cn
 m.glvej.com
 m.gnfpzc.cn
 m.gomev.cn
-m.grtnahd.cn
 m.gpzndq.cn
 m.gtaih.com
 m.gtiou.com
@@ -5500,7 +5491,6 @@ m.xdkje.com
 m.xdunv.com
 m.xeig.cn
 m.xeihy.com
-m.xfya3.cn
 m.xgaij.com
 m.xhaiu.com
 m.xhera.cn
@@ -6311,7 +6301,6 @@ t.lzrkj.top
 t.nnccya.top
 t.mamashengqian.xyz
 t.mofun.ltd
-t.oq68.com
 t.pingzei.com
 t.qiuqiuqipai.com
 t.quandangdang.net
@@ -6547,7 +6536,6 @@ vns800600.net
 vnzq.mmpuh.cn
 vol.lflili.com
 vol.txdwc.cn
-voq3450129.y4j32.cn
 vp.vw81e.cn
 vpgf.qianyilamian.cn
 vpn.baolq666.com
@@ -6614,7 +6602,6 @@ wm.69shi.cn
 wm.xunlaile.com
 wncs.7ez4.cn
 wnek.xvyLjkr.com
-wnek.xvyljkr.com
 woaizhongguo.cdn111222.com
 worldh5.gamehz.cn
 wp.qthp82.cn
@@ -8661,7 +8648,6 @@ cdn.adnxs.com
 fim.adnxs.com
 g.adnxs.com
 gam.adnxs.com
-ib.adnxs.com
 m.adnxs.com
 photobucket.adnxs.com
 secure-sin.adnxs.com
@@ -9398,10 +9384,7 @@ j.credit.wwz114.cn
 y.one.impact-ad.net
 adsmind.gdtimg.com
 smartnews-ads.com
-pc.weizhenwx.com
-t.quandangdang.net
 jg.wensixuetang.com
-v.heygugu.com
 www.toujing9.top
 www.toujing8.top
 www.toujing11.top
