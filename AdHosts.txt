@@ -1,7 +1,7 @@
 #源地址=https://github.com/VeleSila/yhosts/blob/master/hosts
-#源版本=202102091712
+#源版本=202102272009
 #修改者=F9y4ng
-#修改版本=202102240003
+#修改版本=202102280001
 #该格式可用于大圣净化的广告过滤模式，直接URL导入
 at.umeng.com
 adfurikun.jp
@@ -1110,7 +1110,7 @@ daa.shuzilm.cn
 dai.shuzilm.cn
 stream.shuzilm.cn
 www.shuzilm.cn
-255.255.255.255 broadcasthost
+255.255.255.255broadcasthost
 ::1             localhost
 localhost
 ::1             ip6-localhost
@@ -3125,6 +3125,7 @@ c.28487.net
 c.365yigou.cn
 c.45io.com
 c.51xmgys.com
+c.acgshenshicha.cn
 c.anmeilai.net
 c.bayongzx.cn
 c.bccyyc.com
@@ -3275,6 +3276,7 @@ changan.bama555.com
 changmaoxinjzo.com
 channel.togo666.com
 chaojilamei.cn
+charlotteyeon.com
 chemdraw.com
 chuantu.biz
 cilidaquan.pw
@@ -3317,6 +3319,7 @@ cp.gs307.com
 cpc.haohaowan8.com
 cpv-adv.ggytc.com
 cpv.czpush.com
+cqa9.cn
 cs.twcczhu.com
 css.asitend.com
 css888.bceapp.com
@@ -3358,6 +3361,7 @@ d520m.gzcl999.cn
 d5nxst8fruw4z.cloudfront.net
 d6.mobaders.com
 d7.mobaders.com
+d7b.cn
 d8885.com
 d9w.fl1c.com
 da.mgtv.com
@@ -3411,6 +3415,7 @@ dlres.ind9ed.com
 dm.fsyzcs.com
 dm.gbeik.com
 dm.jinshasi.cn
+dms63.he3kz8.com
 dmtu.0m31a.cn
 do.lymstsc.com
 dodi.86zhnc.cn
@@ -3680,6 +3685,7 @@ e.jiirz.com
 e.jioeg.com
 e.jkert.com
 e.jltdbyq.com
+e.jnsdkjzs.com
 e.joyxv.com
 e.jvvyc.cn
 e.jwiyr.com
@@ -4233,6 +4239,7 @@ hxfu.nz53h.cn
 hyfh.benbaisteel.com
 hyjss.tkshyp.com
 hyuj.gmxyorg.cn
+hz.hzhongjianfund.com
 hz1.lanmei80.com
 hzdaye.m.zwdu.com
 hzyd.cdn.bcebos.com
@@ -5613,6 +5620,7 @@ mfo25978.eeo1h1.cn
 mh1.zhengdongwuye.cn
 mhwozc.cn
 mic.bahu.xyz
+mic.ububyiw6655.xyz
 miaobeichina.com
 mil.gbzumh.cn
 miui.hftaili.com
@@ -5822,6 +5830,7 @@ p.skimresources.com
 p.tamenshuo.com
 p.vtdtfl.cn
 p.ynjczy.net
+p0l.cn
 p2.hyz86.com
 p2.ykauto.cn
 p4.95558000.com
@@ -6188,6 +6197,7 @@ so.tsscnw.cn
 sod.onelink.me
 soft.chaomeng8.com
 sohu.husenfood.com
+sou.dkdlsj.com
 sources.wangqipu.com
 sourcescdn.xiaobingw.cn
 sp.wndoor.com
@@ -6322,6 +6332,7 @@ t188.dazhonghua.cn
 t2.vbxx.net
 t2.wshufa.com
 t3.wubiinlee.com
+t38uu.k42jvw.com
 t75.qyqc4s.com
 t8ac8a8f8.jingfeed.com
 ta.dogyqw.cn
@@ -6453,6 +6464,7 @@ v.6dvip.com
 v.76768hwj.cn
 v.8yrn.cn
 v.9y88.com
+v.acgshenshicha.cn
 v.amghwdf.cn
 v.awmlkuu.cn
 v.bayongzx.cn
@@ -6499,6 +6511,7 @@ v.yahgxog.cn
 v.zoepb.cn
 voq3450129.y4j32.cn
 v1.0594529.com
+v4g.cn
 v7.kawinhome.com
 v7.shaoyumuye.com
 vadioc.cn
@@ -6706,6 +6719,7 @@ www.cooolyi.com
 www.dadjia.com
 www.dajean.com
 www.danpinwu.com
+www.danweijungu5812.top
 www.day66.com
 www.dgfggy.com
 www.diediao.com
@@ -7056,8 +7070,10 @@ y.shuoshuocm.com
 y.unilz588.com
 y.xinghao89.com
 y.zp22.cn
+y7jq.cn
 yacafrr.bailingcloud.cn
 yahafda.qivsod.com
+yao.zzsdjq.com
 ycszgt.cn
 ycy.hyjyjc.com
 ydlz.k859n.cn
@@ -9388,6 +9404,8 @@ jg.wensixuetang.com
 www.toujing9.top
 www.toujing8.top
 www.toujing11.top
+www.kldsam.com
+down.ewo1617.com
 acdcdn.com
 squeezedthoughtfully.com
 sorrowfulchemical.com
@@ -9404,3 +9422,9 @@ dat8.cc
 hxlover.com
 etl-xlmc-ssl.xunlei.com
 fangniaowang.net
+adv.aiclk.com
+game-motivatead.aiclk.com
+recv.aiclk.com
+tac.aiclk.com
+tracelog-debug.aiclk.com
+upload.aiclk.com
