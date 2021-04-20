@@ -1,9 +1,8 @@
 #源地址=https://github.com/VeleSila/yhosts/blob/master/hosts
-#源版本=202102272009
+#源版本=202104181130
 #修改者=F9y4ng
-#修改版本=202102280001
+#修改版本=202104200002
 #该格式可用于大圣净化的广告过滤模式，直接URL导入
-at.umeng.com
 adfurikun.jp
 aag.yahooapis.jp
 optimus-ads.amap.com
@@ -306,6 +305,7 @@ textlink.simba.taobao.com
 alog.umeng.com
 api.wsq.umeng.com
 ar.umeng.com
+at.umeng.com
 dev.umeng.com
 oc.umeng.com
 umeng.com
@@ -714,7 +714,6 @@ www.mediav.com
 xd.mediav.com
 xdssp.mediav.com
 acdn.adnxs.com
-ib.adnxs.com
 nym2-tr.adnxs.com
 sin1-ib.adnxs.com
 vcdn.adnxs.com
@@ -1411,6 +1410,7 @@ msg.71.am
 mixer.cupid.ptqy.gitv.tv
 msg.ptqy.gitv.tv
 msga.ptqy.gitv.tv
+show.ssports.com
 store.ptqy.gitv.tv
 t7z.cupid.ptqy.gitv.tv
 de.as.cp61.ott.cibntv.net
@@ -1703,8 +1703,6 @@ ad.winrar.com.cn
 adv2.downsave.com
 mini.jijiplayer.com
 txtad.jijiplayer.com
-ee.grtnahd.cn
-m.grtnahd.cn
 www.xn--i6qs37am6iwyqffc.com
 xdm.ahqlx.top
 ycjisa.cn
@@ -1717,11 +1715,9 @@ v.lelangegg.cn
 c.lelangegg.cn
 bnetds.cn
 ee.mtmfjdo.cn
-ee.xfya3.cn
 eo.4s5n.cn
 hm.baidu.com.caiziwuyou.com
 m.mtmfjdo.cn
-m.xfya3.cn
 mo.4s5n.cn
 mo.mktrkn.cn
 s.yhgongsi.com
@@ -1750,9 +1746,7 @@ mo.mptckm.cn
 v.mininini.cn
 c.mininini.cn
 api.vasb.cn
-ee.45xa.cn
 img.hywly.com
-m.45xa.cn
 m.qmlcdlo.cn
 mo.4k9b.cn
 qd.easylive.net
@@ -1918,7 +1912,6 @@ union.duizhuang.com
 8131.qizhihaotian.cn
 8132.qizhihaotian.cn
 jsjs.jbzj.com
-jscode.jbzj.com
 icws.jb51.net
 wm.kolinay.com
 ad.egou.com
@@ -2892,6 +2885,7 @@ a.wlfnb.com
 a.xmdly.com
 a.yiyuancq.com
 a-cn.duoyi.com
+a0c.cn
 a1.huiqituan.com
 a1.lmaq.cn
 a1.openxt.cn
@@ -3058,6 +3052,7 @@ b17.wenjutv.com
 b3.jandan.net
 b3.jiasudu666.com
 b4xuj.zzhhts.com
+b9g4.nxwfhjvi.cn
 ba.fqzds.com
 ba.n3wz6.cn
 baby.yf898.com
@@ -3152,6 +3147,7 @@ c.iche88.cn
 c.idasui.cn
 c.j782e.cn
 c.jntxst.cn
+c.jumorecn.com.cn
 c.k429fma.com
 c.kangai100.cn
 c.kbf365.cn
@@ -3162,6 +3158,8 @@ c.lalaxit.cn
 c.lalaxqt.cn
 c.lbsbbw.cn
 c.lianwangtech.com
+c.linkjingkeji.com
+c.lovame.com.cn
 c.lovepets70.com
 c.lrzazjl.cn
 c.lucktui.com
@@ -3181,6 +3179,7 @@ c.panqis.cn
 c.panqishu.com
 c.piliangzhuce.cn
 c.ptffw.net
+v.qhruisen.cn
 c.qhruixin.cn
 c.queene.cn
 c.r9uqp.cn
@@ -3201,6 +3200,7 @@ c.tjmzzk.com
 c.v-meng.org
 c.v4dwkcv.com
 c.vip97.net
+c.wangdaguanli.com
 c.wantxt.cc
 c.wechat.jx.cn
 c.wofbw.top
@@ -3252,6 +3252,7 @@ cdhoc.piyaji.cn
 cdn.0i-i0.com
 cdn.5bong.com
 cdn.810236.com
+cdn.9823df.com
 cdn.adsk2.co
 cdn.adstract.com
 cdn.aegins.com
@@ -3282,12 +3283,14 @@ chuantu.biz
 cilidaquan.pw
 cip6.czpush.com
 cjiv.chengjie168.com.cn
+ck.jssdk.top
 ckjyck.qxs.la
 clc.wanmancn.com
 clickadu.com
 clk.uunt.com
 cloud.zyiis.net
 cm.he2d.com
+cmz2.stm65i8.com
 cndjs-1251973891.coshk.myqcloud.com
 cnm.xlcktv.com
 cnyibs.com
@@ -3427,6 +3430,7 @@ down.bugeyu.com
 down.xiazaiyuan.net
 download.350.com
 dq.baomihua.com
+dqapp.cdn.bcebos.com
 drdj.m.gxwztv.com
 drsw.m.yuyouge.com
 druic.mytxt.cc
@@ -3956,6 +3960,7 @@ ee.1s8pj.cn
 ee.2v0ni.cn
 ee.32z8d.cn
 ee.45le.cn
+ee.45xa.cn
 ee.57m1j.cn
 ee.57m1j.com
 ee.60w3s.cn
@@ -3978,6 +3983,7 @@ ee.d6s2pn5t.cn
 ee.eiiteho.cn
 ee.f2z4d.cn
 ee.gd881.cn
+ee.grtnahd.cn
 ee.h2tywo.cn
 ee.hdboping.com
 ee.hx623.cn
@@ -3999,6 +4005,7 @@ ee.wh723.cn
 ee.wv26d.cn
 ee.wz382.cn
 ee.x0u4o.cn
+ee.xfya3.cn
 ee.xlhm88.cn
 ee.xq375.cn
 ee.xr883.cn
@@ -4013,6 +4020,7 @@ eg.gitpapa.com
 ehdj.njguluyu.cn
 ekfe.idanmei.cn
 ekfe.tmmjgcp.cn
+eladies.zhmyq.cn
 emss.zjhim.com
 engine.tuicoco.com
 eo.6sq7c.xyz
@@ -4246,6 +4254,7 @@ hzyd.cdn.bcebos.com
 hzyuw.com
 i.hao61.net
 i.hzblic.com
+i.jads.co
 i.jyhwt.cn
 i.niupic.com
 i.xdywlw.cn
@@ -4506,6 +4515,7 @@ js883.yongkang6.com
 js9318.bllzgqbyp.com
 jsc.adskeeper.co.uk
 jscdn.99pps.com
+jscode.jbzj.com
 jsjs.nthyn.com
 jsnywl.kfi8.com
 json.gewuwen.com
@@ -4586,6 +4596,7 @@ kwcscdn.000dn.com
 kwflvcdn.000dn.com
 kzni.jwhfn.cn
 l.adiers.com
+l.dalemax.cn
 l.ksxcxb.cn
 l.mnjkw.cn
 l.xfmfqdt.cn
@@ -4623,6 +4634,7 @@ log.kuaigeng.com
 log.orchidscape.net
 lol.pnhfc.com
 loldy.jiangmg.com
+ lp7n.cy6px.com
 lq0s3c.cn
 lskwsx.m.zwdu.com
 lu.w3vj.cn
@@ -4698,6 +4710,7 @@ m.408uo.cn
 m.41fsxa.cn
 m.43k5d.cn
 m.448u79.cn
+m.45xa.cn
 m.45le.cn
 m.479db.cn
 m.4joon8.cn
@@ -5017,6 +5030,7 @@ m.glaef.cn
 m.glvej.com
 m.gnfpzc.cn
 m.gomev.cn
+m.grtnahd.cn
 m.gpzndq.cn
 m.gtaih.com
 m.gtiou.com
@@ -5314,6 +5328,7 @@ m.qldua.cn
 m.qlr0d.cn
 m.qneit.com
 m.qu79j.cn
+m.quanxs.net
 m.qusub.com
 m.r507p.cn
 m.r528e.cn
@@ -5498,6 +5513,7 @@ m.xdkje.com
 m.xdunv.com
 m.xeig.cn
 m.xeihy.com
+m.xfya3.cn
 m.xgaij.com
 m.xhaiu.com
 m.xhera.cn
@@ -5709,6 +5725,7 @@ ms.myyage.com
 ms.qaqact.cn
 msg.eclicks.cn
 msttz.tst98.com
+mt.4go.cc
 mtl.gzhuibei.com
 mtl.ttsqgs.com
 mtl.xtpxw.com
@@ -5814,11 +5831,13 @@ oy.qthp82.cn
 p.99mssj.com
 p.9wotuan.com
 p.ahzsjzgc.com
+p.bangdu2.com
 p.bjdianyue.com
 p.bnuni.com
 p.eaglesh.cn
 p.jclz622983.com
 p.kf3msfm.com
+p.lexph.com
 p.m5bn.com
 p.mendoc.cn
 p.niudashu.com
@@ -5826,7 +5845,9 @@ p.qiailm.com
 p.qijijs.top
 p.qfmzys.com
 p.saozhu1.top
+p.shengcaidata.com
 p.skimresources.com
+p.sswyyl.com
 p.tamenshuo.com
 p.vtdtfl.cn
 p.ynjczy.net
@@ -5837,7 +5858,21 @@ p4.95558000.com
 p6.95558000.com
 p7.95558000.com
 p8.95558000.com
+#p1.pstatp.com
+#p2.pstatp.com
+#p3.pstatp.com
+#p4.pstatp.com
+#p5.pstatp.com
+#p6.pstatp.com
+#p7.pstatp.com
+#p8.pstatp.com
+#p9.pstatp.com
+#p10.pstatp.com
+#pb1.pstatp.com
+#pb2.pstatp.com
+#pb3.pstatp.com
 package.minghui.org
+paflibnq.mamiyue.com.cn
 pad.zhywyl.cn
 page.santc.cn
 parallelsdesktop.cn
@@ -5941,6 +5976,7 @@ pop3.fuxids.com
 pork.2tumeng.com
 postut.cn
 povbdf.cn
+poweredby.jads.co
 pp.lbsjrw.cn
 pp.sxjkc.cn
 pp.xjuygf.xyz
@@ -6451,6 +6487,7 @@ utma.ywpxp.cn
 utp.ucweb.com
 uu.85655095.com
 uu.zeverdg.com
+uuboos.com
 uun.1uandun.com
 uv.qnmuayx.cn
 uwcu.0b6h.cn
@@ -6470,6 +6507,7 @@ v.awmlkuu.cn
 v.bayongzx.cn
 v.bingxueshenjie.cn
 v.com.5p67n.cn
+v.dalemax.cn
 v.dcgwnhk.cn
 v.dengbaozx.cn
 v.dfseafood.com
@@ -6481,11 +6519,14 @@ v.ggsgww.cn
 v.heygugu.com
 v.iche88.cn
 v.jntxst.cn
+v.jumorecn.com.cn
 v.kangai100.cn
 v.koqz36.com
 v.l0yjow.cn
 v.lalaxit.cn
 v.lalaxqt.cn
+v.linkjingkeji.com
+v.lovame.com.cn
 v.lovepets70.com
 v.lrzazjl.cn
 v.lystrw.cn
@@ -6502,6 +6543,7 @@ v.sixiuwl.cn
 v.szpaopao.com
 v.tgslww.cn
 v.tr31t.cn
+v.wangdaguanli.com
 v.xadingli.cn
 v.xbjcgs.cn
 v.xinshide.cn
@@ -6509,7 +6551,6 @@ v.xiuzhenjewelry.cn
 v.xrooxeo.cn
 v.yahgxog.cn
 v.zoepb.cn
-voq3450129.y4j32.cn
 v1.0594529.com
 v4g.cn
 v7.kawinhome.com
@@ -6540,6 +6581,7 @@ vip.winfisc.com
 vip.zhuba8.com
 vipchaoshi.cn
 vipwx.zhong-zhu.com
+viq3.fb360xp.com
 vj.tianji520.cn
 vj.x-ssp.com
 vm.makeding.com
@@ -6549,6 +6591,7 @@ vns800600.net
 vnzq.mmpuh.cn
 vol.lflili.com
 vol.txdwc.cn
+voq3450129.y4j32.cn
 vp.vw81e.cn
 vpgf.qianyilamian.cn
 vpn.baolq666.com
@@ -6597,6 +6640,7 @@ wap.tanwan.com
 wap.txwdn.com
 wap.utmei.cn
 wapssl.ff113300.com
+wdfhbx.zdpeanut.com
 webservice.fusionsight.cn
 weizjzg.com
 weld.iefsf.com
@@ -6682,6 +6726,7 @@ www.aafanke.cc
 www.abie18.top
 www.abie19.top
 www.abie26.top
+www.abovede6.com
 www.ad5lm.net
 www.ads80.com
 www.afj0.com
@@ -6722,9 +6767,11 @@ www.danpinwu.com
 www.danweijungu5812.top
 www.day66.com
 www.dgfggy.com
+www.dianomi.com
 www.diediao.com
 www.doulaikanapp.com
 www.dqsft.com
+www.dulaiduapp.com
 www.duobaoqj.com
 www.eddong.com
 www.ere3j2e001.com
@@ -6831,6 +6878,7 @@ www.mengyuanwei.com
 www.mgldzcls.com
 www.mie99.net
 www.minghui.org
+www.mkjshusgus5481.top
 www.mohecm.com
 www.mpzw.com
 www.nangong2.com
@@ -7146,6 +7194,7 @@ zhy333.com
 zjj.xhdccz.com
 zjjgtz.com
 zjm.zzmmkj.com
+zjyl365.cn
 zlsw.nnjxqd.com
 zly.dlhxgg.com
 zmj.guanqinjie.cn
@@ -8664,6 +8713,7 @@ cdn.adnxs.com
 fim.adnxs.com
 g.adnxs.com
 gam.adnxs.com
+ib.adnxs.com
 m.adnxs.com
 photobucket.adnxs.com
 secure-sin.adnxs.com
@@ -9428,3 +9478,5 @@ recv.aiclk.com
 tac.aiclk.com
 tracelog-debug.aiclk.com
 upload.aiclk.com
+vip.70qn.com
+show.suning.beer
