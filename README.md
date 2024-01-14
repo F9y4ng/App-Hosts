@@ -8,7 +8,7 @@
 
 Adblock DNS filter (Optimized) 
 
-Version: 202309191428400002
+Version: 202401141400400001
 
 该订阅用于大圣净化APP，在沙僧过滤规则页面添加导入即可。
 
